@@ -1,0 +1,8 @@
+name: CoalBlockPlugin
+version: 0.4
+author: r_tab
+description: CoalBlock, can be used for storage of coal. Future feature will be that it can burn infinitely, like Netherrack.
+
+main: me.rtab.coalblock.CoalBlockPlugin
+
+depend: [Spout]
